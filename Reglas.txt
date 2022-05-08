@@ -1,0 +1,14 @@
+¡Vamos a jugar encerrado!
+
+Los jugadores por turno se irán alternando para mover cada una de sus fichas de la siguiente manera:
+
+    -Una ficha no puede moverse a espacios ocupados por otras fichas.
+    -Una ficha solo puede moverse a un espacio si hay una arista que lo conecte con el espacio en el 
+    que se encuentra actualmente dicha ficha.
+
+El juego termina cuandi un jugador no puede mover de manera legal cualquiera de sus fichas, en ese 
+momento el jugador pierde la partida y el otro se declara ganador. 
+
+¡Mucha suerte!
+
+Reglas
